@@ -6,10 +6,10 @@ Your Claude projects on an Elgato Stream Deck Mini.
 
 ## Tutorial video
 
-[![Watch the 3-minute tutorial](tutorial-thumbnail.jpg)](https://github.com/dooougs/deck-for-claude/releases/download/v1.0.0/Deck-for-Claude-tutorial.mp4)
+https://github.com/user-attachments/assets/e5e5375e-a110-4aad-864a-fcf1168cedf5
 
 A three-minute walkthrough of every key and gesture (tap, double tap, triple tap and hold), with captions
-and the Claude voice.
+and voice-over. [Download the full 1080p version](https://github.com/dooougs/deck-for-claude/releases/download/v1.0.0/Deck-for-Claude-tutorial.mp4).
 
 ## What the keys do
 
