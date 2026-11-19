@@ -4,6 +4,15 @@ Your Claude projects on an Elgato Stream Deck Mini.
 
 <img src="deck-for-claude.png" alt="Deck for Claude on a Stream Deck Mini" width="328">
 
+## Tutorial video
+
+[![Watch the 3-minute tutorial](tutorial-thumbnail.jpg)](https://github.com/dooougs/deck-for-claude/releases/download/v1.0.0/Deck-for-Claude-tutorial.mp4)
+
+A three-minute walkthrough of every key and gesture (tap, double tap, triple tap and hold), with captions
+and the Claude voice.
+
+## What the keys do
+
 - **Top row:** the three Claude projects you use most, each with its own picture. Hold a key and talk to
   send that project a voice message (transcribed on your PC with Whisper), or tap and speak.
 - **Bottom row:** a General key (its border shows your plan usage; double tap to attach a screenshot),
