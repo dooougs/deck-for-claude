@@ -23,7 +23,7 @@ and voice-over. [Download the full 1080p version](https://github.com/dooougs/dec
 
 ## Install
 
-1. Download **DeckForClaude-Setup-1.0.2.exe** from the [latest release](../../releases/latest).
+1. Download **DeckForClaude-Setup-1.0.3.exe** from the [latest release](../../releases/latest).
 2. Run it. No admin rights are needed. By default it starts when you sign in to Windows.
 3. Right-click the orange tray icon, choose **Sign in to Claude**, then turn Deck for Claude on.
 
